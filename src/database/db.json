@@ -1,13 +1,1 @@
-{
-  "tickets": [
-    {
-      "id": "bfd2640e-e668-4f5b-9870-1b20167f4a66",
-      "equipment": "Computador",
-      "description": "Computador não liga",
-      "user_name": "José Neres",
-      "status": "open",
-      "created_at": "2026-10-28T04:32:25.511Z",
-      "updated_at": "2026-10-28T04:32:25.511Z"
-    }
-  ]
-}
+{"tickets":[{"id":"bfd2640e-e668-4f5b-9870-1b20167f4a66","equipment":"Computador","description":"Computador não liga","user_name":"José Neres","status":"open","created_at":"2026-10-28T04:32:25.511Z","updated_at":"2026-10-28T04:32:25.511Z"},{"id":"c3d724d6-3b37-4dab-82b6-97405dd725b3","equipment":"teclado","description":"tecla espaço está falhando","user_name":"Pedro","status":"open","created_at":"2026-10-28T04:45:23.529Z","updated_at":"2026-10-28T04:45:23.529Z"}]}
